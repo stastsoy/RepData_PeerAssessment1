@@ -45,7 +45,7 @@ hist(Total.by.date$Total.Steps,
      ylab="Count")
 ```
 
-![](PA1_template_files/figure-html/steps per day-1.png)<!-- -->
+![](PA1_template_files/figure-html/steps-per-day-1.png)<!-- -->
 
 The mean total number of steps per day is 10766.19 and the median is 10765
 
